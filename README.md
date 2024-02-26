@@ -15,4 +15,4 @@ Please provide the contract address that you deployed on the Sepolia network.
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-![image]([https://github.com/tinyansun/2024-Spring-HW0/blob/main/%E6%88%AA%E5%9C%96%202024-02-26%20%E4%B8%8B%E5%8D%883.29.30.png](https://github.com/tinyansun/2024-Spring-HW0/blob/main/%E6%88%AA%E5%9C%96%202024-02-26%20%E4%B8%8B%E5%8D%883.24.23.png)https://github.com/tinyansun/2024-Spring-HW0/blob/main/%E6%88%AA%E5%9C%96%202024-02-26%20%E4%B8%8B%E5%8D%883.24.23.png)
+![image](https://github.com/tinyansun/2024-Spring-HW0/blob/main/%E6%88%AA%E5%9C%96%202024-02-26%20%E4%B8%8B%E5%8D%883.24.23.png)
